@@ -1,1 +1,1 @@
-# SIR-Model-of-COVID-19-ND
+hi this is my work using python to implement SIR model of COVID-19 in North Dakota.
